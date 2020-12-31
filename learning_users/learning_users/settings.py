@@ -28,7 +28,7 @@ SECRET_KEY = 'rfc*_a&j8w^)em&s*j=m+*36@)29s7zx2mead1@64c*py)d&5o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['joominic.pythonanywhere.com']
 
 
 # Application definition
